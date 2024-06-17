@@ -4,6 +4,7 @@ Legal document query system.
 - Leveraging state-of-the-art techniques including roBERTa, LLAMA, and employing sophisticated naive approaches, the system ensures robust performance and accuracy in delivering results.
 
 **Data Preparation**
+
 From the website "indiacode.nic.in," we gathered an extensive dataset of legal documents covering a variety of
 legal topics, such as health law, education law, and more. In order to get the data ready for use in an answering
 model, we extensively extracted text from PDF files and underwent a thorough preprocessing process. By ensuring
